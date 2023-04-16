@@ -2,8 +2,6 @@
 [![Visits Badge](https://img.shields.io/badge/visit-website-brightgreen)](https://ara-systems.net)
 
 
-<br>
-
 ## Skills
 
 ![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white)
