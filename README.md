@@ -16,4 +16,4 @@
 
 ## Technologies
 
-![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=black&color=FCC624)
+![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=FCC624&color=black)
