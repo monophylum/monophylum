@@ -12,5 +12,5 @@
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=239120)
 ![](https://img.shields.io/badge/-.NET-informational?style=flat&logo=.net&logoColor=white&color=512BD4)
-![](https://img.shields.io/badge/-CSS3-informational?style=flat&logo=.net&logoColor=white&color=1572B6)
+![](https://img.shields.io/badge/-css-informational?style=flat&logo=.net&logoColor=white&color=1572B6)
 
