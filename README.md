@@ -4,7 +4,7 @@
 
 ## Skills
 
-![(https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white)]
+[![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white)]()
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E)
 ![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=3178C6)
 ![](https://img.shields.io/badge/-Java-informational?style=flat&logo=java&logoColor=white&color=4AB197)
