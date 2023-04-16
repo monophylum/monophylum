@@ -13,6 +13,7 @@
 ![](https://img.shields.io/badge/-.NET-informational?style=flat&logo=.net&logoColor=white&color=512BD4)
 ![](https://img.shields.io/badge/-CSS-informational?style=flat&logo=css3&logoColor=white&color=1572B6)
 ![](https://img.shields.io/badge/-HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26)
+![](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
 
 ## Technologies
 
