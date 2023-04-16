@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Visits Badge](https://img.shields.io/badge/visit-website-brightgreen)](https://ara-systems.net)
+[![Visits Badge](https://img.shields.io/badge/visit-website-brightgreen&logo=jsonwebtokens)](https://ara-systems.net)
 
 
 ## Skills
