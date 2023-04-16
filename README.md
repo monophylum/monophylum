@@ -17,3 +17,4 @@
 ## Technologies
 
 ![](https://img.shields.io/badge/-Linux-informational?style=flat&logo=linux&logoColor=FCC624&color=black)
+![](https://img.shields.io/badge/-Node.js-informational?style=flat&logo=nodejs&logoColor=339933&color=black)
